@@ -6,3 +6,5 @@ def rev_str(my_str):
 
 for char in rev_str("hello"):
      print(char)
+
+print "this is a new commit in firstTestBranch"
