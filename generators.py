@@ -8,3 +8,4 @@ for char in rev_str("hello"):
      print(char)
 
 print "this is a new commit in firstTestBranch"
+print "this is second line"
